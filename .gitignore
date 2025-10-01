@@ -6,3 +6,5 @@
 /backend/.vs
 /backend/IndraShreeDesignStudio.API/obj
 /backend/IndraShreeDesignStudio.Application/obj
+/backend/IndraShreeDesignStudio.Domain/obj
+/backend/IndraShreeDesignStudio.Infrastructure/obj
